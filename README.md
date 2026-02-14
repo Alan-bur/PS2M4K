@@ -61,6 +61,6 @@ This project and all previous versions are completely free. Support through [Pat
 Thank you for supporting my work. 💖 
 
 ## DISCLAIMER
-This texture pack is an unofficial fan-made project and is not affiliated with or endorsed by Nintendo. All original content and trademarks belong to their respective owners. This pack contains only hand-created textures and does not include any original files. <br>
+This texture pack is an unofficial fan-made project and is not affiliated with or endorsed by Sony. All original content and trademarks belong to their respective owners. This pack contains only hand-created textures and does not include any original files. <br>
 For inquiries or removal requests, please contact: alanbur2020@gmail.com
 
