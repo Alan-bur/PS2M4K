@@ -62,5 +62,5 @@ Thank you for supporting my work. 💖
 
 ## DISCLAIMER
 This texture pack is an unofficial fan-made project and is not affiliated with or endorsed by Sony. All original content and trademarks belong to their respective owners. This pack contains only hand-created textures and does not include any original files. <br>
-For inquiries or removal requests, please [open an issue](https://github.com/Alan-bur/WM4K/issues/new).
+For inquiries or removal requests, please [open an issue](https://github.com/Alan-bur/PS2M4K/issues/new).
 
