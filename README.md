@@ -3,6 +3,10 @@
 [![Discord](https://github.com/user-attachments/assets/44890af8-3aa3-45e2-a8da-9f551762acd5)](https://discord.gg/6sCNcn3FjV)
 [![Support](https://github.com/user-attachments/assets/1bc6157a-21c2-479e-b127-09447b87ee57)](https://ko-fi.com/abur)
 
+
+https://github.com/user-attachments/assets/37d19a09-9f61-4edb-9028-fe8e6a64a541
+
+
 ## About
 This project aims to prevent PS2 Menu from pixelating on modern screens. It works for PC only and it can't be loaded by a real PS2 since this console does not support 4k Textures. Everything has been remade and polished with new textures so you can now enjoy exploring the PS2 Menu on newer screens.
 
